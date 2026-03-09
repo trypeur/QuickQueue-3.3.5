@@ -1,0 +1,9 @@
+## Interface: 30300
+## Title: QuickQueue
+## Notes: Propose de s'inscrire en donjon à la connexion.
+## Author: Gemini
+QuickQueue.lua## Interface: 30300
+## Title: QuickQueue
+## Notes: Propose de s'inscrire en donjon à la connexion.
+## Author: Gemini
+QuickQueue.lua
